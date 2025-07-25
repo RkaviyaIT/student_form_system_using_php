@@ -32,22 +32,6 @@ This is a web-based registration form built with PHP, MySQL, HTML, CSS, JavaScri
 
 ---
 
-## 📁 Project Structure
-project/
-│
-├── index.html # Main UI page
-├── style.css # Styling for the form and display area
-├── script.js # JS for form validation and interactivity
-├── submit.php # Handles form submission
-├── fetch.php # Fetches records for display
-├── export.php # Exports data to Excel
-├── print.js # Print function for display section
-├── db_config.php # Database connection config
-└── README.md # Project overview
-
-
----
-
 ## ⚙️ Setup Instructions
 
 1. Clone or download the project folder.
