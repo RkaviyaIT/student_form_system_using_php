@@ -58,27 +58,6 @@ project/
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of your project interface here to showcase the UI.*
-
----
-
-## ✅ To Do (Optional Improvements)
-
-- Add user authentication (login/logout)
-- Implement pagination for records
-- Add form reset/clear button
-- Make layout responsive for mobile
-
----
-
-## 📃 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🙋‍♀️ Author
 
 **Kaviya Rajaraman**  
